@@ -1,0 +1,12 @@
+//getting started with Go
+make go folder
+make go file.go
+download go extetion for vs code
+define package by typing package main like thge default
+imoport a module so we can print to the console import "fmt"
+single quotes dont work on this program
+define the entry point func main(){}
+eveything inside the curly runs
+use fmt.Println("Hello World")
+
+//Variables
